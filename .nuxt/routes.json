@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/home/export/Рабочий стол/nab/limogroup/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_a6e02a00"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/export/Рабочий стол/nab/limogroup/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3f2e3078"
+  }
+]
